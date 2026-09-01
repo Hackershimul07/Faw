@@ -1,6 +1,6 @@
 [Unit]
 Description=Client SlowDNS
-Documentation=https://t.me/JubairSensi
+Documentation=https://t.me/shimul00889
 After=network.target nss-lookup.target
 [Service]
 Type=simple
